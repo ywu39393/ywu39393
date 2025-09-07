@@ -47,10 +47,7 @@ Here are some of the key technologies I work with:
   </tr>
 </table>
 
------
 
 
 <!-- end list -->
 
-```
-```
